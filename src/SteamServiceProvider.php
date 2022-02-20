@@ -1,6 +1,6 @@
 <?php
 
-namespace Invisnik\LaravelSteamAuth;
+namespace Matlord\LaravelSteamAuth;
 
 use Illuminate\Support\ServiceProvider;
 
